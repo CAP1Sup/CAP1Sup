@@ -1,14 +1,39 @@
 # Christian Piper
 
-C++ | Java | Python | HTML | CSS | Javascript
+## Bio
+
+I'm an avid coder, consumer of Goldfish (flavor blasted, of course), and FIRST Robotics alumni. I am currently attending [WPI](https://www.wpi.edu/) for Robotics Engineering. Previously, I mentored younger children participating in FIRST Lego League and competed in the FIRST Robotics Competition with my team, [FRC Team 834](https://github.com/FRCTeam834). I work on mechanics, 3D printers, and combat robots in my spare time. I enjoy working on pet projects, such as my 3D printer, spending time with family and friends, and robotics. And yes, I love frogs... specifically red-eyed tree frogs.
+
+## Languages I Code With
+
+<div style="display:flex; flex-wrap:wrap; align-items:center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" style="width:auto; height:80px; margin: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" style="width:auto; height:80px; margin: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/150px-Java_programming_language_logo.svg.png" alt="Java" style="width:auto; height:80px; margin: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" style="width:auto; height:80px; margin: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" style="width:auto; height:80px; margin: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" style="width:auto; height:80px; margin: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" style="width:auto; height:80px; margin: 10px;">
+</div>
+
+<br>
+
+## Stats
 
 <a href="https://github.com/CAP1Sup/CAP1Sup">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAP1Sup&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAP1Sup&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&hide=html&theme=transparent" />
 </a>
 <a href="https://github.com/CAP1Sup/CAP1Sup">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CAP1Sup&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Christian's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CAP1Sup&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=transparent" alt="Christian's GitHub Stats" />
 </a>
 
+<br>
 
-## Bio:
-I'm an avid coder, consumer of Gushers, and love FIRST Robotics. I am a mentor for younger children participating in FIRST Lego League and compete in the high school FIRST Robotics Competition with my team, [FRC Team 834](https://github.com/FRCTeam834). I also work on mechanics and 3D printers in my spare time. I enjoy working on pet projects, such as my 3D printer, spending time with family and friends, and working on robotics.
+## Projects
+
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CAP1Sup&repo=Intellistep&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&show_owner=true" width="400" height="auto">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FRCTeam834&repo=MLFlex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&show_owner=true" width="400" height="auto">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FRCTeam834&repo=Robot-2022&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&show_owner=true" width="400" height="auto">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FRCTeam834&repo=Robot-2021-Swerve-Edition&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&show_owner=true" width="400" height="auto">
+</div>
