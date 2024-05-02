@@ -21,19 +21,8 @@ I'm an avid coder, consumer of Goldfish (flavor blasted, of course), and FIRST R
 ## Stats
 
 <a href="https://github.com/CAP1Sup/CAP1Sup">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAP1Sup&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&hide=html&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAP1Sup&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6&hide=html&theme=transparent&layout=compact&size_weight=0.5&count_weight=0.5" height="175px"/>
 </a>
 <a href="https://github.com/CAP1Sup/CAP1Sup">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CAP1Sup&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=transparent" alt="Christian's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CAP1Sup&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=transparent&hide=contribs" alt="Christian's GitHub Stats" height="175px" />
 </a>
-
-<br>
-
-## Projects
-
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CAP1Sup&repo=Intellistep&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&show_owner=true" width="400" height="auto">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FRCTeam834&repo=MLFlex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&show_owner=true" width="400" height="auto">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FRCTeam834&repo=Robot-2022&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&show_owner=true" width="400" height="auto">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FRCTeam834&repo=Robot-2021-Swerve-Edition&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&show_owner=true" width="400" height="auto">
-</div>
