@@ -21,8 +21,8 @@ I'm an avid coder, consumer of Goldfish (flavor blasted, of course), and FIRST R
 ## Stats
 
 <a href="https://github.com/CAP1Sup/CAP1Sup">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAP1Sup&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6&hide=html&theme=transparent&layout=compact&size_weight=0.5&count_weight=0.5" height="175px"/>
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CAP1Sup&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6&hide=html,MATLAB&theme=transparent&layout=compact&size_weight=0.5&count_weight=0.5" height="175px"/>
 </a>
 <a href="https://github.com/CAP1Sup/CAP1Sup">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CAP1Sup&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=transparent&hide=contribs" alt="Christian's GitHub Stats" height="175px" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=CAP1Sup&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=transparent&hide=contribs" alt="Christian's GitHub Stats" height="175px" />
 </a>
